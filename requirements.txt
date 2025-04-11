@@ -1,0 +1,10 @@
+numpy == 2.2.4
+pandas == 2.2.3
+jupyterlab == 4.3.6
+scipy
+matplotlib == 3.10.1
+seaborn == 0.13.2
+plotly
+openpyxl
+xlrd
+plotly
