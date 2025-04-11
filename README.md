@@ -3,7 +3,13 @@
 GPT가 내준 문제 (Python)를 각자의 방법으로 풀고 이를 공유한다.
 
 ### 공유 사이트
-- [GITHUB] (https://github.com/joseonyeong/LGSW_CodingStudy)
-- [Joseonyeong] (https://velog.io/@whtjsdud54/series/PYTHON)
+![GITHUB] (https://github.com/joseonyeong/LGSW_CodingStudy)
+![Joseonyeong] (https://velog.io/@whtjsdud54/series/PYTHON)
 []()
 []()
+
+### Communication
+![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+### Tech Stack
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
